@@ -1,6 +1,6 @@
 # 🤖 Robô de Mensagens Automáticas para Grupos do WhatsApp
 
-Este projeto é um bot desenvolvido com **Node.js** e a biblioteca **Baileys** para enviar mensagens automáticas em **grupos do WhatsApp** de forma **agendada**. Ideal para marketing, lembretes, notificações ou interações programadas.
+Este projeto é um bot desenvolvido com **Node.js** e a biblioteca **Baileys** para enviar mensagens automáticas em **grupos do WhatsApp** de forma **agendada**.
 
 ---
 
